@@ -6,6 +6,10 @@ __pycache__/
 .gitignore*
 ..gitignore*
 
+README.md*
+.README*
+
+
 # Configuration file
 Config 
 *.json
