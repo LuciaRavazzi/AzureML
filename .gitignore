@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 ml-basics
+config.json
 
 .gitignore*
 ..gitignore*
