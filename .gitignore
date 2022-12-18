@@ -6,7 +6,7 @@ __pycache__/
 ml-basics
 config.json
 
-*.cvs
+*.csv
 *.pkl
 
 .gitignore*

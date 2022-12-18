@@ -2,7 +2,6 @@
 
 from azureml.core import Run
 import pandas as pd
-import matplotlib.pyplot as plt
 import os
 
 run = Run.get_context()
