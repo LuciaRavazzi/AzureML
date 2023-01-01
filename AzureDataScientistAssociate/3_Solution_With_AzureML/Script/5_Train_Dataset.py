@@ -13,7 +13,7 @@ from sklearn.metrics import roc_curve
 # Get the script arguments (regularization rate and training dataset ID)
 parser = argparse.ArgumentParser()
 parser.add_argument('--regularization', type=float, dest='reg_rate', default=0.01, help='regularization rate')
-# parser.add_argument("--input-data", type=str, dest='training_dataset_id', help='training dataset')
+parser.add_argument("--input-data", type=str, dest='training_dataset_id', help='training dataset')
 args = parser.parse_args()
 
 # Set regularization hyperparameter (passed as an argument to the script)
