@@ -12,6 +12,7 @@ dependencies:
 - scikit-learn
 - pandas
 - pip
+- matplotlib
 - pip:
   - azureml-defaults
   - azureml-mlflow
