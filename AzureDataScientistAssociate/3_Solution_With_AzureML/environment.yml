@@ -16,4 +16,5 @@ dependencies:
 - pip:
   - azureml-defaults
   - azureml-mlflow
+  - azureml-interpret
 
